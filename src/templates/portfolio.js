@@ -48,7 +48,6 @@ export const query = graphql`
             id
             frontmatter {
                 title
-                description
                 image {
                     publicURL
                     childImageSharp {

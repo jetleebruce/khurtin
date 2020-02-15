@@ -1,6 +1,5 @@
 ---
 title: FJORD minimalistic barbershop in Moscow
-description: 
 template: portfolio
 image: ./image.jpg
 ---

@@ -11,7 +11,7 @@ export default function({ data }) {
             <SEO
                 lang="en"
                 title={data.markdownRemark.frontmatter.title}
-                description={data.markdownRemark.frontmatter.description}
+            
             />
             <div className="container">
                 <article className="post">
@@ -50,7 +50,6 @@ export const query = graphql`
             html
             frontmatter {
                 title
-                description
                 image {
                     publicURL
                     childImageSharp {

@@ -1,4 +1,7 @@
-#To Run the site#
+# Install npm#
+npm install
+
+# To Run the site#
 gatsby develop
 
 

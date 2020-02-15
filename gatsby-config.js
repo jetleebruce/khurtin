@@ -38,7 +38,7 @@ let siteMetadata = {
         {
             name: "Behance",
             icon: "/images/behance.svg",
-            url: "#"
+            url: "https://www.behance.net/vshrt"
         },
         {
             name: "Facebook",
